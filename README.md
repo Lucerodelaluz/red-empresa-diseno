@@ -15,3 +15,22 @@ Por lo tanto se tienen 4 VLAN:
 
 Siendo la red WAN 192.168.X.X
 
+------Marketing--------
+1 PC - 192.168.10.10
+1 Laptop - 192.168.10.11
+1 Celular - 192.168.10.20
+
+------Administración--------
+1 PC - 192.168.10.11
+1 Laptop - 192.168.20.10
+
+------Servicio al cliente--------
+1 PC - 192.168.30.10
+1 Laptop - 192.168.30.11
+
+------Proyectos--------
+1 PC - 192.168.40.10
+1 Laptop - 192.168.40.11
+
+
+
